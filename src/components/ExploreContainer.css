@@ -3,7 +3,7 @@
   position: absolute;
   left: 0;
   right: 0;
-  top: 50%;
+  top: 20%;
   transform: translateY(-50%);
 }
 
@@ -19,6 +19,60 @@
   margin: 0;
 }
 
-#container a {
-  text-decoration: none;
+#cont {
+  text-align: center;
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 36%;
+  transform: translateY(-50%);
+}
+
+#inp {
+  text-align: center;
+  padding: 5px;
+  top: 20%;
+  color-scheme: white;
+}
+
+#inp2 {
+  text-align: center;
+  padding: 5px;
+  top: 20%;
+}
+
+#sel1 {
+  text-align: center;
+  padding: 5px;
+  top: 20%;
+  color-scheme: white;
+}
+
+#sel2 {
+  text-align: center;
+  padding: 5px;
+  color-scheme: white;
+}
+
+
+#res{
+  text-align: center;
+}
+
+#yey{
+  text-align: center;
+}
+
+#but {
+  text-align: center;
+  padding: 10px;
+}
+
+#but2 {
+  text-align: center;
+  padding: 10px;
+  padding-left: 15px;
+  padding-right: 15px;
+  border-radius: 20px;
+  color-scheme: white;
 }
